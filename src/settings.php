@@ -18,7 +18,7 @@ return [
 
         // Database Setting
         'db' => [
-            'host' => 'localhost',
+            'host' => '127.0.0.1',
             'user' => 'root',
             'pass' => '',
             'dbname' => 'db_slim_api',
